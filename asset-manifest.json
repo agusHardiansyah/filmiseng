@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/filmiseng/static/css/main.893adfba.css",
+    "main.js": "/filmiseng/static/js/main.aea222a0.js",
+    "static/js/453.0d2becce.chunk.js": "/filmiseng/static/js/453.0d2becce.chunk.js",
+    "static/media/bg2.jpg": "/filmiseng/static/media/bg2.42b24253182bff5589d1.jpg",
+    "static/media/vina.jpeg": "/filmiseng/static/media/vina.93c177d782c34481b741.jpeg",
+    "static/media/Thor Love & Thunder.jpg": "/filmiseng/static/media/Thor Love & Thunder.756315bd7ac89af4d27d.jpg",
+    "static/media/Wakanda Forever.jpeg": "/filmiseng/static/media/Wakanda Forever.bf2cf82b85806156bd1f.jpeg",
+    "static/media/The Gray Men.jpeg": "/filmiseng/static/media/The Gray Men.3a0965064661d52ade08.jpeg",
+    "static/media/indigo.jpg": "/filmiseng/static/media/indigo.bb6016a9f6e41bd3dc03.jpg",
+    "static/media/lockedin.jpg": "/filmiseng/static/media/lockedin.45a0a008f0a9575fcd72.jpg",
+    "static/media/Top Gun Maverick.jpeg": "/filmiseng/static/media/Top Gun Maverick.d14dd3b5ea5ff6e21ec7.jpeg",
+    "static/media/loving.jpg": "/filmiseng/static/media/loving.c3a25acf695ec231293c.jpg",
+    "index.html": "/filmiseng/index.html",
+    "main.893adfba.css.map": "/filmiseng/static/css/main.893adfba.css.map",
+    "main.aea222a0.js.map": "/filmiseng/static/js/main.aea222a0.js.map",
+    "453.0d2becce.chunk.js.map": "/filmiseng/static/js/453.0d2becce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893adfba.css",
+    "static/js/main.aea222a0.js"
+  ]
+}
