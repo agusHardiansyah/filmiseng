@@ -1,0 +1,45 @@
+.myBG {
+    height: 100vh;
+    background: url("../assets/image/bg/bg2.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 300px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px  black;
+    letter-spacing: 1px;
+}
+
+.trending {
+    height: auto;
+    background: url("../assets/image/trending/loving.jpg");
+    background-size: cover;
+}
+
+.film {
+    height: auto;
+    background: url("../assets/image/trending/Thor\ Love\ &\ Thunder.jpg");
+    background-size: cover;
+}
+
+
+.movieImage {
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+.images {
+    height: 300px;
+    object-fit: cover;
+}
+
